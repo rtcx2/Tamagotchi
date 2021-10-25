@@ -1,0 +1,21 @@
+body {
+    max-width: 400; 
+    margin: 0 auto;
+    padding: 20px;
+    position: absolute;
+    left:45%;
+    top:10%;
+    background-image: url('windows-background.jpg');
+}
+div{
+    left:20%;
+}
+button {
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+}
+
+button.playbutton{
+    visibility: hidden;
+}
